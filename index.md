@@ -1,13 +1,21 @@
-## Yafei Wang/王亚飞
+# Yafei Wang/王亚飞
 
 Yafei Wang currently works at the Center for Composite Materials (CCMS), School of Astronautics, Harbin Institute of Technology (HIT). Yafei does research in the mechanics of slender structures, particularly instability and their mechanics.
 
-## Research Interest/研究兴趣
+## Research Interests/研究兴趣
 
 - Mechanics design of Kirigami and Origami
 - Mechanics response of low dimensional material
 - Mechanics of lattice material, cellular material
 - Mechanical metamaterial
+
+## Honors/获奖情况
+
+- National scholarship for Postgraduates 2019
+- Second Class Prize of China Aircraft Innovation Competition 2016
+- Rolmex Technology Scholarship 2015-2016
+- Second ClassScholarship 2014-2016
+- National Scholarship 2010-2012
 
 ## Publication Lists/发表论文
 
@@ -34,11 +42,3 @@ Yafei Wang currently works at the Center for Composite Materials (CCMS), School 
 2- Zhang Y C, **Wang Y F**, Wang C G. Light weight optimization of stratospheric airship envelope based on reliability analysis. **Chinese Journal of Aeronautics**, 2020, 33: 2670-2678.
 
 1- Zhang Z Y, Lan L, **Wang Y F**, Wang C G. Vibration frequency analysis of rippled single-layered graphene sheet: Toward the nano resonant devices design. **Physica E: Low-dimensional Systems and Nanostructures**, 2019: 113580.
-
-## Honors/获奖情况
-
-- National scholarship for Postgraduates 2019
-- Second Class Prize of China Aircraft Innovation Competition 2016
-- Rolmex Technology Scholarship 2015-2016
-- Second ClassScholarship 2014-2016
-- National Scholarship 2010-2012
