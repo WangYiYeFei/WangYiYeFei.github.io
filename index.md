@@ -29,7 +29,7 @@ Yafei Wang currently works at the Center for Composite Materials (CCMS), School 
 
 4- **Wang Y F**, Wang C G. Strain-limiting wrinkled kirigami materials for flexible devices: High flexibility, stretchability and compressibility. **International Journal of Solids and Structures**, 2021, IJSS-D-21-00258, (Under Review).
 
-3- Zhao Z H, **Wang Y F**(Co-first author), Wang C G. A theoretical study of wrinkle propagation in graphene with flower-like grain boundaries. **Physical Chemistry Chemical Physics**, 2021, 23: 11917.
+3- Zhao Z H, **Wang Y F** (Co-first author), Wang C G. A theoretical study of wrinkle propagation in graphene with flower-like grain boundaries. **Physical Chemistry Chemical Physics**, 2021, 23: 11917.
 
 2- Zhang Y C, **Wang Y F**, Wang C G. Light weight optimization of stratospheric airship envelope based on reliability analysis. **Chinese Journal of Aeronautics**, 2020, 33: 2670-2678.
 
