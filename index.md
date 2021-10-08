@@ -21,7 +21,7 @@ Yafei Wang currently works at the Center for Composite Materials (CCMS), School 
 
 12-	**Wang Y F**, Wang C G. Buckling of ultrastretchable kirigami metastructures for mechanical programmability and energy harvesting. **International Journal of Solids and Structures**, 2021, 213: 93-102.
 
-11-	**Wang Y F**, Wang C G, Tan H F. Geometry-dependent stretchability and stiffness of ribbon kirigami based on large curvature curved beam model. International Journal of Solids and Structures, 2020, 182: 236-253.
+11-	**Wang Y F**, Wang C G, Tan H F. Geometry-dependent stretchability and stiffness of ribbon kirigami based on large curvature curved beam model. **International Journal of Solids and Structures**, 2020, 182: 236-253.
 
 10-	**Wang Y F**, Wang C G. Self-assembly of graphene sheets actuated by surface topological defects: Toward the fabrication of novel nanostructures and drug delivery devices. **Applied Surface Science**, 2020, 505: 144008.
 
