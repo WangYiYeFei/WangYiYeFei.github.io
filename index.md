@@ -37,7 +37,7 @@
 
 7-	**Wang Y F**, Wang C G, Tan H F. Intrinsic edge warping of graphene nanoribbon boost molecular directional motion: Toward the novel nanodevices. **Physics Letters A**, 2019, 383: 1473-1477.
 
-6-	Wang C G, **Wang Y F**. The mechanical design of a hybrid intelligent hinge with shape memory polymer and spring sheet. **Composites Part B Engineering**, 2017, 134: 1-8.
+6-	Wang C G, **Wang Y F**. The mechanical design of a hybrid intelligent hinge with shape memory polymer and spring sheet. **Composites Part B Engineering**, 2018, 134: 1-8.
 
 5- Zhao Z H, **Wang Y F (Co-first author)** , Wang C G. A theoretical study of wrinkle propagation in graphene with flower-like grain boundaries. **Physical Chemistry Chemical Physics**, 2021, 23: 11917.
 
