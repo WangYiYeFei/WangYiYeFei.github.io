@@ -1,6 +1,6 @@
 # Yafei Wang/王亚飞
 
-Yafei Wang currently works at the Center for Composite Materials (CCMS), School of Astronautics, Harbin Institute of Technology (HIT). Yafei does research in the mechanics of slender structures, particularly instability and their mechanics.
+Yafei Wang currently works at Department of Mechanics and Engineering Science, Fudan University. He received his PhD at the Center for Composite Materials (CCMS), School of Astronautics, Harbin Institute of Technology (HIT). Yafei does research in the mechanics of slender structures, particularly instability and their mechanics.
 
 ## Research Interests/研究兴趣
 
