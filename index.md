@@ -1,15 +1,15 @@
-# Yafei Wang/王亚飞
+# Yafei Wang
 
 Yafei Wang currently works at Department of Mechanics and Engineering Science, Fudan University. He received his PhD at the Center for Composite Materials (CCMS), School of Astronautics, Harbin Institute of Technology (HIT). Yafei does research in the mechanics of slender structures, particularly instability and their mechanics.
 
-## Research Interests/研究兴趣
+## Research Interests
 
 - Mechanics design of Kirigami and Origami
 - Mechanics response of low dimensional material
 - Mechanics of lattice material, cellular material
 - Mechanical metamaterial
 
-## Honors/获奖情况
+## Honors
 
 - National scholarship for Postgraduates 2019
 - Second Class Prize of China Aircraft Innovation Competition 2016
@@ -17,7 +17,9 @@ Yafei Wang currently works at Department of Mechanics and Engineering Science, F
 - Second ClassScholarship 2014-2016
 - National Scholarship 2010-2012
 
-## Publication Lists/发表论文
+## Publication Lists
+
+13-	**Wang Y F**, Wang C G. Mechanics of Strain-limiting Wrinkled Kirigami for Flexible Devices: High Flexibility, Stretchability and Compressibility. **International Journal of Solids and Structures**, 2022, 238: 111382.
 
 12-	**Wang Y F**, Wang C G. Buckling of ultrastretchable kirigami metastructures for mechanical programmability and energy harvesting. **International Journal of Solids and Structures**, 2021, 213: 93-102.
 
