@@ -46,3 +46,9 @@
 2- Zhang Y C, **Wang Y F**, Wang C G. Light weight optimization of stratospheric airship envelope based on reliability analysis. **Chinese Journal of Aeronautics**, 2020, 33: 2670-2678.
 
 1- Zhang Z Y, Lan L, **Wang Y F**, Wang C G. Vibration frequency analysis of rippled single-layered graphene sheet: Toward the nano resonant devices design. **Physica E: Low-dimensional Systems and Nanostructures**, 2019: 113580.
+
+## Contact
+
+woofigo@foxmail.com
+
+wang_yafei@fudan.edu.cn
