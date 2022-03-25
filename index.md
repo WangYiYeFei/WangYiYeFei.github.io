@@ -1,8 +1,10 @@
 ## 王亚飞
 
 - 致力于折剪纸结构力学及其在功能性超材料、纳米器件、空间可展开结构等领域应用研究
+
 - 博士毕业于哈工大航天学院复材所，力学专业，博士学位攻读期间曾获得国家博士研究生奖学金等，在固体力学权威期刊IJSS上发表学术论文3篇(Int. J. Solids Struct. 2022, 238, 111382; Int. J. Solids Struct. 2021, 213, 93-102; Int. J. Solids Struct. 2020, 182, 236-253)，导师为王长国教授
-- 入选复旦大学“超级博士后”，合作导师为徐凡教授。
+
+- 入选复旦大学“超级博士后”，合作导师为徐凡教授
 
 ## 研究兴趣
 
@@ -14,7 +16,7 @@ yafeiwang@fudan.edu.cn (上海市复旦大学邯郸校区光华楼东主楼航�
 
 ## 文章列表
 
--	**Wang Y F**, Wang C G. Mechanics of Strain-limiting Wrinkled Kirigami for Flexible Devices: High Flexibility, Stretchability and Compressibility. **International Journal of Solids and Structures**, 2022, 238: 111382.
+-	**Wang Y F**, Wang C G. Mechanics of strain-limiting wrinkled kirigami for flexible devices: High flexibility, stretchability and compressibility. **International Journal of Solids and Structures**, 2022, 238: 111382.
 
 -	**Wang Y F**, Wang C G. Buckling of ultrastretchable kirigami metastructures for mechanical programmability and energy harvesting. **International Journal of Solids and Structures**, 2021, 213: 93-102.
 
@@ -36,7 +38,7 @@ yafeiwang@fudan.edu.cn (上海市复旦大学邯郸校区光华楼东主楼航�
 
 - Liu M X, Xue Z M, **Wang Y F**, et al. Lateral constrained wrinkling of the film with partial contact. **International Journal of Mechanical Sciences**, 2022, 217: 107022.
 
-- Zhang Y C, Liu Z M, **Wang Y F**, et al Analysis and Verification of an Optimal Design Solution for Rubble Mound Breakwaters Considering Interactions of Failure Modes. **Journal of Waterway, Port, Coastal and Ocean Engineering**, 2020, 146(2):04020001.
+- Zhang Y C, Liu Z M, **Wang Y F**, et al Analysis and verification of an optimal design solution for rubble mound breakwaters considering. Interactions of Failure Modes. **Journal of Waterway, Port, Coastal and Ocean Engineering**, 2020, 146(2):04020001.
 
 - Zhang Y C, **Wang Y F**. Light weight optimization of stratospheric airship envelope based on reliability analysis. **Chinese Journal of Aeronautics**, 2020, 33: 2670-2678.
 
