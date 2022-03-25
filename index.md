@@ -12,7 +12,7 @@
 
 ## 联系方式
 
-yafeiwang@fudan.edu.cn (上海市复旦大学邯郸校区光华楼东主楼航空航天系)
+- yafeiwang@fudan.edu.cn (上海市复旦大学邯郸校区光华楼东主楼航空航天系)
 
 ## 文章列表
 
