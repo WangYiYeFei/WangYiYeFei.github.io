@@ -1,8 +1,6 @@
 ## 王亚飞
 
-- 致力于折剪纸结构力学及其在功能性超材料、纳米器件、空间可展开结构等领域应用研究
-
-- 博士毕业于哈工大航天学院复材所，力学专业，博士学位攻读期间曾获得国家博士研究生奖学金等，在固体力学权威期刊IJSS上发表学术论文3篇(Int. J. Solids Struct. 2022, 238, 111382; Int. J. Solids Struct. 2021, 213, 93-102; Int. J. Solids Struct. 2020, 182, 236-253)，导师为王长国教授
+- 博士毕业于哈工大航天学院复材所，力学专业，博士学位攻读期间曾获得国家博士研究生奖学金等，导师为王长国教授
 
 - 入选复旦大学“超级博士后”，合作导师为徐凡教授
 
@@ -10,9 +8,11 @@
 
 - 柔性结构力学
 
+- 折剪纸结构力学及其在功能性超材料、纳米器件、空间可展开结构等领域应用研究
+
 ## 联系方式
 
-- yafeiwang@fudan.edu.cn (上海市复旦大学邯郸校区光华楼东主楼航空航天系)
+- yafeiwang@fudan.edu.cn
 
 ## 文章列表
 
@@ -46,9 +46,9 @@
 
 ## 荣誉
 
-- 复旦大学“超级博后” 2021
-- 博士研究生国奖奖学金 2019
-- Second Class Prize of China Aircraft Innovation Competition 2016
-- Rolmex Technology Scholarship 2015-2016
-- Second ClassScholarship 2014-2016
-- National Scholarship 2010-2012
+- 复旦大学“超级博后”
+- 博士研究生国奖奖学金
+- Second Class Prize of China Aircraft Innovation Competition
+- Rolmex Technology Scholarship
+- Second ClassScholarship
+- National Scholarship
