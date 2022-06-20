@@ -1,14 +1,16 @@
 ## 王亚飞
 
-- 博士毕业于哈工大航天学院复材所，力学专业，博士学位攻读期间曾获得国家博士研究生奖学金等，导师为王长国教授
+- 博士毕业于哈工大航天学院复材所，力学专业，博士期间曾获得国家博士研究生奖学金等，导师为王长国教授（课题组主页http://homepage.hit.edu.cn/wangchg）
 
-- 入选复旦大学“超级博士后”，合作导师为徐凡教授
+- 入选复旦大学“超级博士后”，国家“博新计划”，合作导师为徐凡教授(课题组主页http://morphomech.com/)
 
 ## 研究兴趣
 
 - 柔性结构力学
 
 - 折剪纸结构力学及其在功能性超材料、纳米器件、空间可展开结构等领域应用研究
+
+- 生长与失稳力学
 
 ## 联系方式
 
@@ -32,9 +34,11 @@
 
 -	**Wang Y F**, Wang C G, Tan H F. Intrinsic edge warping of graphene nanoribbon boost molecular directional motion: Toward the novel nanodevices. **Physics Letters A**, 2019, 383: 1473-1477.
 
+- Zhao Z H, **Wang Y F (Co-first author)** , Wang C G. A theoretical study of wrinkle propagation in graphene with flower-like grain boundaries. **Physical Chemistry Chemical Physics**, 2021, 23: 11917.
+
 -	Wang C G, **Wang Y F**. The mechanical design of a hybrid intelligent hinge with shape memory polymer and spring sheet. **Composites Part B Engineering**, 2018, 134: 1-8.
 
-- Zhao Z H, **Wang Y F (Co-first author)** , Wang C G. A theoretical study of wrinkle propagation in graphene with flower-like grain boundaries. **Physical Chemistry Chemical Physics**, 2021, 23: 11917.
+-	Zhang J, **Wang Y F**, et al. Flexible kirigami with local cylindrical shell design for stretchable microstrip antenna. **Composites Structures**, 2022, 00646-8.
 
 - Liu M X, Xue Z M, **Wang Y F**, et al. Lateral constrained wrinkling of the film with partial contact. **International Journal of Mechanical Sciences**, 2022, 217: 107022.
 
@@ -43,6 +47,7 @@
 - Zhang Y C, **Wang Y F**. Light weight optimization of stratospheric airship envelope based on reliability analysis. **Chinese Journal of Aeronautics**, 2020, 33: 2670-2678.
 
 - Zhang Z Y, Lan L, **Wang Y F**, Wang C G. Vibration frequency analysis of rippled single-layered graphene sheet: Toward the nano resonant devices design. **Physica E: Low-dimensional Systems and Nanostructures**, 2019, 113580.
+
 
 ## 荣誉
 
