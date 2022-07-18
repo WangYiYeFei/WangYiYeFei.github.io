@@ -1,4 +1,3 @@
-## 王亚飞
 <table border="0">
   <tr>
     <td width="75%">
@@ -9,7 +8,7 @@
       <p>联系方式:yafeiwang@fudan.edu.cn</p>
     </td>
     <td width="25%">
-      <img src="/My pic.jpg" width="100%">      % 插入证件照代码
+      <img src="/My pic.jpg" width="100%">      
     </td>
   </tr>
 </table>
