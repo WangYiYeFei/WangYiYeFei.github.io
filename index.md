@@ -1,6 +1,6 @@
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="50%">
       <h1>王亚飞</h1>
       <p>研究兴趣:</p>
       <p>a. 柔性结构力学、生长与失稳力学</p>
@@ -9,7 +9,7 @@
       <p>yafeiwang@fudan.edu.cn</p>
     </td>
     <td width="25%">
-      <img src="/My pic.jpg" width="100%">      
+      <img src="/My pic.jpg" width="50%">      
     </td>
   </tr>
 </table>
