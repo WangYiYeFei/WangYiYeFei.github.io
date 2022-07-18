@@ -4,7 +4,7 @@
       <h1>王亚飞</h1>
       <p><b>研究兴趣:柔性结构力学、生长与失稳力学</b></p>
       <p><b>        折剪纸结构力学及其在功能性超材料、纳米器件、空间可展开结构等领域应用研究</b></p>
-      <p><b>联系方式:yafeiwang@fudan.edu.cn</b></p>
+      <p>联系方式:yafeiwang@fudan.edu.cn</p>
     </td>
     <td width="25%">
       <img src="/My pic.jpg" width="100%">      % 插入证件照代码
