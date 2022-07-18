@@ -5,7 +5,6 @@
       <p>研究兴趣:</p>
       <p>a. 柔性结构力学、生长与失稳力学</p>
       <p>b. 折剪纸结构力学及其在功能性超材料、纳米器件、空间可展开结构等领域应用研究</p>
-      <p>联系方式:yafeiwang@fudan.edu.cn</p>
     </td>
     <td width="25%">
       <img src="/My pic.jpg" width="100%">      
@@ -18,7 +17,7 @@
 - 入选复旦大学“超级博士后”，“博新计划”，合作导师为徐凡教授(俆老师课题组主页 http://morphomech.com/ )
 
 
-## 文章列表
+  ## 文章列表
 
 -	**Yafei Wang**, et al. Mechanics of strain-limiting wrinkled kirigami for flexible devices: High flexibility, stretchability and compressibility. **International Journal of Solids and Structures**, 2022, 238: 111382.
 
@@ -50,8 +49,11 @@
 
 -	Zeyi Zhang, Lan Lan, **Yafei Wang**, et al. Vibration frequency analysis of rippled single-layered graphene sheet: Toward the nano resonant devices design. **Physica E: Low-dimensional Systems and Nanostructures**, 2019, 113580.
 
+  ## 联系方式
 
-## 荣誉
+- yafeiwang@fudan.edu.cn
+
+  ## 荣誉
 
 - 博士后面上资助
 - “博新计划”
