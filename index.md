@@ -1,3 +1,5 @@
+![z](/My pic.jpg)
+
 ## 王亚飞
 
 - 哈工大航天学院复材所，力学专业博士，曾获得国家博士研究生奖学金等，导师为王长国教授（课题组主页 http://homepage.hit.edu.cn/wangchg ）
