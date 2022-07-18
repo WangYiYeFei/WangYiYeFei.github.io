@@ -8,8 +8,8 @@
       <p>联系方式:</p>
       <p>yafeiwang@fudan.edu.cn</p>
     </td>
-    <td width="25%">
-      <img src="/My pic.jpg" width="50%">      
+    <td width="50%">
+      <img src="/My pic.jpg" width="100%">      
     </td>
   </tr>
 </table>
