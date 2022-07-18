@@ -18,8 +18,7 @@
 
 - 入选复旦大学“超级博士后”，“博新计划”，合作导师为徐凡教授 (课题组主页 http://morphomech.com/ )
 
-
-  ## 文章列表
+## 文章列表
 
 -	**Yafei Wang**, et al. Mechanics of strain-limiting wrinkled kirigami for flexible devices: High flexibility, stretchability and compressibility. **International Journal of Solids and Structures**, 2022, 238: 111382.
 
@@ -51,8 +50,7 @@
 
 -	Zeyi Zhang, Lan Lan, **Yafei Wang**, et al. Vibration frequency analysis of rippled single-layered graphene sheet: Toward the nano resonant devices design. **Physica E: Low-dimensional Systems and Nanostructures**, 2019, 113580.
 
-
-  ## 荣誉及资助
+## 荣誉及资助
 
 - 博士后面上资助
 - “博新计划”
