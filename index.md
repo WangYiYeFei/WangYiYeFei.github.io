@@ -5,6 +5,8 @@
       <p>研究兴趣:</p>
       <p>a. 柔性结构力学、生长与失稳力学</p>
       <p>b. 折剪纸结构力学及其在功能性超材料、纳米器件、空间可展开结构等领域应用研究</p>
+      <p>联系方式:</p>
+      <p>yafeiwang@fudan.edu.cn</p>
     </td>
     <td width="25%">
       <img src="/My pic.jpg" width="100%">      
@@ -49,11 +51,8 @@
 
 -	Zeyi Zhang, Lan Lan, **Yafei Wang**, et al. Vibration frequency analysis of rippled single-layered graphene sheet: Toward the nano resonant devices design. **Physica E: Low-dimensional Systems and Nanostructures**, 2019, 113580.
 
-  ## 联系方式
 
-- yafeiwang@fudan.edu.cn
-
-  ## 荣誉
+  ## 荣誉及资助
 
 - 博士后面上资助
 - “博新计划”
