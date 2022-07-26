@@ -1,18 +1,8 @@
-<table border="0">
-  <tr>
-    <td width="50%">
-      <h1>王亚飞</h1>
-      <p>研究兴趣:</p>
-      <p>a. 柔性结构力学、生长与失稳力学</p>
-      <p>b. 折剪纸结构力学及其在功能性超材料、纳米器件、空间可展开结构等领域应用研究</p>
-      <p>联系方式:</p>
-      <p>yafeiwang@fudan.edu.cn</p>
-    </td>
-    <td width="50%">
-      <img src="/My pic.jpg" width="100%">      
-    </td>
-  </tr>
-</table>
+## 王亚飞
+
+- 研究兴趣：a. 柔性结构力学、生长与失稳力学；b. 折剪纸结构力学及其在功能性超材料、纳米器件、空间可展开结构等领域应用研究
+
+- 联系方式：yafeiwang@fudan.edu.cn
 
 - 哈工大航天学院复材所，力学专业博士，曾获得国家博士研究生奖学金等，导师为王长国教授（课题组主页 http://homepage.hit.edu.cn/wangchg ）
 
